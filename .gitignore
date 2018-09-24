@@ -1,0 +1,7 @@
+target/
+tmp/
+logs/
+.nrepl-port
+.lein-repl-history
+.lein-failures
+.DS_Store
